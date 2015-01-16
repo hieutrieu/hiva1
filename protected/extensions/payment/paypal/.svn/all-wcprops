@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TMDT/!svn/ver/281/FLSystem/src/freelancerWeb/components/com_payment/payment/paypal
+END
+paypal.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TMDT/!svn/ver/281/FLSystem/src/freelancerWeb/components/com_payment/payment/paypal/paypal.html.php
+END
+NL.Paypal.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/TMDT/!svn/ver/281/FLSystem/src/freelancerWeb/components/com_payment/payment/paypal/NL.Paypal.class.php
+END
+paypal.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TMDT/!svn/ver/281/FLSystem/src/freelancerWeb/components/com_payment/payment/paypal/paypal.config.php
+END
+NL_PaypalController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TMDT/!svn/ver/281/FLSystem/src/freelancerWeb/components/com_payment/payment/paypal/NL_PaypalController.php
+END
+paypal.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TMDT/!svn/ver/281/FLSystem/src/freelancerWeb/components/com_payment/payment/paypal/paypal.php
+END
